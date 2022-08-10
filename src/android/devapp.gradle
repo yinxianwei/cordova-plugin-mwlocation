@@ -1,0 +1,7 @@
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'com.afkt:DevApp:1.9.4'
+}
